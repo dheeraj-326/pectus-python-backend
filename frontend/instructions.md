@@ -8,7 +8,7 @@ These are NOT coding exercises. These exercises aim to give you an asynchronous 
 
 ## Context
 
-Let's consider Pectus is planning to create a feature to show user uploaded expanses (you can find sample expanses.csv file in this repository which you can use as a mock data for your work) data in tabular form and letting user to perform some basic set of operations over data such as sort and filter. You will find more fine-grained details on this under the feature scopes section.
+Let's consider Pectus is planning to create a feature to show user uploaded expanses (you can find sample [expanses.csv](https://github.com/Pectus-Finance/hiring-exercises/blob/master/frontend/expanses.csv) file in this repository which you can use as a mock data for your work) data in tabular form and letting user to perform some basic set of operations over data such as sort and filter. You will find more fine-grained details on this under the feature scopes section.
 
 ## Feature Scopes
 
