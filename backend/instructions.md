@@ -1,4 +1,4 @@
-# Coding challenge Backend Exercise
+# Coding challenge Backend Exercise - Python
 
 Hello! If you are going through this document, we're likely chatting with you about a technical role at Pectus Finance. If so, congratulations 🎉 !
 
