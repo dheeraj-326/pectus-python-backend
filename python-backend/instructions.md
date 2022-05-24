@@ -43,5 +43,5 @@ The goal of this exercise is to design a read-only API (REST) that returns one o
 
 ## Submitting your exercise
 
-- Please sent your task solutions github repository link at nishant@pectusfinance.com.
-- If you have any questions related to this coding challenge please write to Nishant /He/Him (nishant@pectusfinance.com)
+- Please send your task solutions GitHub repository link to nishant@pectusfinance.com.
+- If you have any questions related to this coding challenge, please write to Nishant /He/Him (nishant@pectusfinance.com)

@@ -53,8 +53,8 @@ Please use [Codesandbox](https://codesandbox.io/) - React & Typescript template 
 - a super-simple (end to end) test suite if applicable (even one test is a bonus)
 - Some form of lightweight technical documentation (code comments are fine)
 - Please complete your working solution within 7 days of receiving this challenge, and be sure to notify us (nishant@pectusfinance.com) when it is ready for review.
-- Please sent your task solutions (Codesandbox link/any details) at nishant@pectusfinance.com.
-- If you have any questions related to this coding challenge please write to Nishant /He/Him (nishant@pectusfinance.com)
+- Please send your task solutions (Codesandbox link/any details) to nishant@pectusfinance.com.
+- If you have any questions related to this coding challenge, please write to Nishant /He/Him (nishant@pectusfinance.com)
 
 ## License
 
