@@ -21,7 +21,7 @@ Submissions should be in the form of a [Jupyter notebook](https://jupyter.org/).
 
 This exercise aims to analyze a data set containing several CSVs of compensation data submitted by individuals via Employee Survey tools. This data has not been modified in any way from the original source.
 
-- Clean and format all [3 compensation data CSVs](/salary_datasets) to use a common set of fields/attributes/columns containing at least the following...
+- Clean and format all [3 compensation data CSVs](/data-engineer/salary_data) to use a common set of fields/attributes/columns containing at least the following...
   - title
   - location
   - salary (base compensation) in $US dollars with cents
