@@ -1,6 +1,7 @@
 from flask import Flask
-from flask_caching import Cache
-from routes.expanses_data import expanses_data_route
+
+from src.routes.expanses_data import expanses_route
+from src.util.caching import cache
 
 config = {
     "DEBUG": True,
@@ -10,12 +11,13 @@ config = {
 
 if __name__ == '__main__':
     app = Flask(__name__)
+    app.register_blueprint(expanses_route, url_prefix='/expanses_data')
     app.config.from_mapping(config)
-    app.register_blueprint(expanses_data_route, url_prefix='/expanses_data')
+
 
     @app.route('/')
     def check():
         return "Yes, working"
 
-    cache = Cache(app)
+    cache.init_app(app)
     app.run(host='0.0.0.0')
